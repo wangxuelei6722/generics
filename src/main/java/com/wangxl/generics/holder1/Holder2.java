@@ -1,4 +1,4 @@
-package com.wangxl.generics.holder;
+package com.wangxl.generics.holder1;
 /*
 * 对于Holder 的扩展，希望持有多个类型的对象，我们可以让这个类持有Object类型的对象。
 *

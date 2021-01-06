@@ -1,4 +1,4 @@
-package com.wangxl.generics.holder;
+package com.wangxl.generics.holder1;
 /*
 * Holder2可以存储任何类型的对象。先后三次分别存储了三种不同类型的对象。通常而言，我们只会使用容器来存储一种类型的对象，
 * 泛型主要目的之一就是用来指定容器要持有什么类型的对象。而由编辑器来保证类型的正确性。

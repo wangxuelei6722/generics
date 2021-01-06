@@ -1,4 +1,4 @@
-package com.wangxl.generics.holder;
+package com.wangxl.generics.holder1;
 /*
 * 为什么要有泛型：
 *       一般的类和方法，只能使用具体的类型，要么是基本类型，要么是自定义的类。如果要编写可以应用于多种类型的代码，
