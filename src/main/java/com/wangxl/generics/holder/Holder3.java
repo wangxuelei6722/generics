@@ -8,7 +8,6 @@ package com.wangxl.generics.holder;
 *
 * */
 public class Holder3<T> {
-    private T t;
     //持有Object 对象
     private T t;
     //构造函数
