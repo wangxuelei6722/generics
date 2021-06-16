@@ -1,4 +1,4 @@
 package com.wangxl.generics.coffee;
 
-public class SnowWhite {
+public class SnoWhite extends StoryCharacter {
 }

@@ -1,4 +1,4 @@
 package com.wangxl.generics.coffee;
 
-public class Trump {
+public class Trump extends StoryCharacter {
 }

@@ -1,4 +1,4 @@
 package com.wangxl.generics.coffee;
 
-public class Pompeo {
+public class Pompeo extends StoryCharacter {
 }

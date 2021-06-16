@@ -1,4 +1,4 @@
 package com.wangxl.generics.coffee;
 
-public class BadGuys {
+public class BadGuys extends StoryCharacter {
 }
